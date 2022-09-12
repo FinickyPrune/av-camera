@@ -1,0 +1,20 @@
+PODS:
+  - SwiftLint (0.48.0)
+  - SwiftyBeaver (1.9.6)
+
+DEPENDENCIES:
+  - SwiftLint
+  - SwiftyBeaver
+
+SPEC REPOS:
+  trunk:
+    - SwiftLint
+    - SwiftyBeaver
+
+SPEC CHECKSUMS:
+  SwiftLint: 284cea64b6187c5d6bd83e9a548a64104d546447
+  SwiftyBeaver: c8241b4745aa269a78ca5a022532c6915e948536
+
+PODFILE CHECKSUM: 9cab1f21cf8fc0f54bff33d8b9953305f91692f8
+
+COCOAPODS: 1.11.3

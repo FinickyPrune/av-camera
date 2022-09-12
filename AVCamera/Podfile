@@ -1,0 +1,11 @@
+platform :ios, '14.0'
+project 'AVCamera.xcodeproj'
+use_frameworks!
+
+target 'AVCamera' do
+  pod 'SwiftyBeaver'
+  pod 'SwiftLint'
+end
+
+
+
